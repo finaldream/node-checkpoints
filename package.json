@@ -1,0 +1,29 @@
+{
+  "name": "node-checkpoints",
+  "version": "1.0.0",
+  "description": "Node module for accumulating events and running scripts accordingly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finaldream/node-checkpoints.git"
+  },
+  "keywords": [
+    "events",
+    "aggregation",
+    "async",
+    "sync",
+    "preloader"
+  ],
+  "author": "Oliver Erdmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finaldream/node-checkpoints/issues"
+  },
+  "homepage": "https://github.com/finaldream/node-checkpoints#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
